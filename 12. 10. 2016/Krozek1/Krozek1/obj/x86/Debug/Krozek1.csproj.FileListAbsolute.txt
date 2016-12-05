@@ -1,0 +1,4 @@
+c:\users\uporabnik\documents\visual studio 2010\Projects\Krozek1\Krozek1\bin\Debug\Krozek1.exe
+c:\users\uporabnik\documents\visual studio 2010\Projects\Krozek1\Krozek1\bin\Debug\Krozek1.pdb
+c:\users\uporabnik\documents\visual studio 2010\Projects\Krozek1\Krozek1\obj\x86\Debug\Krozek1.exe
+c:\users\uporabnik\documents\visual studio 2010\Projects\Krozek1\Krozek1\obj\x86\Debug\Krozek1.pdb

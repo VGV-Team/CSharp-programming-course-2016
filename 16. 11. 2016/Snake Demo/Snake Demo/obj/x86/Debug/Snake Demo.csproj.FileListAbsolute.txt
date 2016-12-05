@@ -1,0 +1,8 @@
+c:\users\uporabnik\documents\visual studio 2010\Projects\Snake Demo\Snake Demo\bin\Debug\Snake Demo.exe
+c:\users\uporabnik\documents\visual studio 2010\Projects\Snake Demo\Snake Demo\bin\Debug\Snake Demo.pdb
+c:\users\uporabnik\documents\visual studio 2010\Projects\Snake Demo\Snake Demo\obj\x86\Debug\Snake Demo.exe
+c:\users\uporabnik\documents\visual studio 2010\Projects\Snake Demo\Snake Demo\obj\x86\Debug\Snake Demo.pdb
+C:\Users\Uporabnik\Desktop\Snake Demo\Snake Demo\Snake Demo\obj\x86\Debug\Snake Demo.exe
+C:\Users\Uporabnik\Desktop\Snake Demo\Snake Demo\Snake Demo\obj\x86\Debug\Snake Demo.pdb
+C:\Users\Uporabnik\Desktop\Snake Demo\Snake Demo\Snake Demo\bin\Debug\Snake Demo.exe
+C:\Users\Uporabnik\Desktop\Snake Demo\Snake Demo\Snake Demo\bin\Debug\Snake Demo.pdb
