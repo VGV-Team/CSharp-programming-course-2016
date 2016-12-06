@@ -1,0 +1,9 @@
+c:\users\chika\documents\visual studio 2015\Projects\Sample Database Project\Sample Database Project\bin\Debug\Sample Database Project.exe.config
+c:\users\chika\documents\visual studio 2015\Projects\Sample Database Project\Sample Database Project\bin\Debug\Sample Database Project.exe
+c:\users\chika\documents\visual studio 2015\Projects\Sample Database Project\Sample Database Project\bin\Debug\Sample Database Project.pdb
+c:\users\chika\documents\visual studio 2015\Projects\Sample Database Project\Sample Database Project\obj\Debug\Sample Database Project.csprojResolveAssemblyReference.cache
+c:\users\chika\documents\visual studio 2015\Projects\Sample Database Project\Sample Database Project\obj\Debug\Sample_Database_Project.Form1.resources
+c:\users\chika\documents\visual studio 2015\Projects\Sample Database Project\Sample Database Project\obj\Debug\Sample_Database_Project.Properties.Resources.resources
+c:\users\chika\documents\visual studio 2015\Projects\Sample Database Project\Sample Database Project\obj\Debug\Sample Database Project.csproj.GenerateResource.Cache
+c:\users\chika\documents\visual studio 2015\Projects\Sample Database Project\Sample Database Project\obj\Debug\Sample Database Project.exe
+c:\users\chika\documents\visual studio 2015\Projects\Sample Database Project\Sample Database Project\obj\Debug\Sample Database Project.pdb
