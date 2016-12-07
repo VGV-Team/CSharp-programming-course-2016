@@ -29,7 +29,7 @@
         private void InitializeComponent()
         {
             this.bRead = new System.Windows.Forms.Button();
-            this.Write = new System.Windows.Forms.Button();
+            this.bWrite = new System.Windows.Forms.Button();
             this.bInsert = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
@@ -43,15 +43,15 @@
             this.bRead.UseVisualStyleBackColor = true;
             this.bRead.Click += new System.EventHandler(this.bRead_Click);
             // 
-            // Write
+            // bWrite
             // 
-            this.Write.Location = new System.Drawing.Point(12, 226);
-            this.Write.Name = "Write";
-            this.Write.Size = new System.Drawing.Size(75, 23);
-            this.Write.TabIndex = 1;
-            this.Write.Text = "bWrite";
-            this.Write.UseVisualStyleBackColor = true;
-            this.Write.Click += new System.EventHandler(this.Write_Click);
+            this.bWrite.Location = new System.Drawing.Point(12, 226);
+            this.bWrite.Name = "bWrite";
+            this.bWrite.Size = new System.Drawing.Size(75, 23);
+            this.bWrite.TabIndex = 1;
+            this.bWrite.Text = "Write";
+            this.bWrite.UseVisualStyleBackColor = true;
+            this.bWrite.Click += new System.EventHandler(this.bWrite_Click);
             // 
             // bInsert
             // 
@@ -69,7 +69,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(284, 261);
             this.Controls.Add(this.bInsert);
-            this.Controls.Add(this.Write);
+            this.Controls.Add(this.bWrite);
             this.Controls.Add(this.bRead);
             this.Name = "Form1";
             this.Text = "Form1";
@@ -80,7 +80,7 @@
         #endregion
 
         private System.Windows.Forms.Button bRead;
-        private System.Windows.Forms.Button Write;
+        private System.Windows.Forms.Button bWrite;
         private System.Windows.Forms.Button bInsert;
     }
 }

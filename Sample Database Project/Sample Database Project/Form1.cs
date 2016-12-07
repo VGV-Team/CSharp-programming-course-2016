@@ -18,11 +18,6 @@ namespace Sample_Database_Project
             InitializeComponent();
         }
 
-        private void Write_Click(object sender, EventArgs e)
-        {
-
-        }
-
         private void bInsert_Click(object sender, EventArgs e)
         {
             SqlConnection myConnection = new SqlConnection("Server=tcp:c-sharp-course.database.windows.net,1433;Initial Catalog=C_Sharp_Course_Sample_Database;Persist Security Info=False;User ID=nsk;Password=QWEqwe123;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;");
@@ -58,6 +53,11 @@ namespace Sample_Database_Project
             }
 
             myConnection.Close();
+        }
+
+        private void bWrite_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
