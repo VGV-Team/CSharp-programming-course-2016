@@ -28,7 +28,35 @@ namespace WindowsFormsApplication1
             p = new Pen(Color.White);
             g = pbPictureBox.CreateGraphics();
 
+            updateHighScore();
+        }
+
+
+        private void updateHighScore()
+        {
+
+            SqlConnection myConnection = new SqlConnection("Server=tcp:c-sharp-course.database.windows.net,1433;Initial Catalog=C_Sharp_Course_Sample_Database;Persist Security Info=False;User ID=nsk;Password=QWEqwe123;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;");
+
+            myConnection.Open();
+
+            SqlCommand qc = new SqlCommand("SELECT * FROM SampleTable ORDER BY score DESC", myConnection);
+            SqlDataReader reader = qc.ExecuteReader();
             
+            if (reader.HasRows)
+            {
+                tbHighScore.Text = "";
+                while (reader.Read())
+                {
+                    //MessageBox.Show(reader.GetInt32(0) + " " + reader.GetString(1) + " " + reader.GetInt32(2));
+                    tbHighScore.Text += "Name:"+reader.GetString(1) + " Score:" + reader.GetInt32(2) + "\r\n";
+                }
+            }
+            else
+            {
+                //MessageBox.Show("No rows found.");
+                tbHighScore.Text = "No rows found.";
+            }
+            myConnection.Close();
         }
 
         private void bDraw_Click(object sender, EventArgs e)
@@ -77,6 +105,8 @@ namespace WindowsFormsApplication1
 
                 myConnection.Close();
 
+
+                updateHighScore();
 
             }
             else

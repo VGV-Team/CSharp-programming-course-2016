@@ -35,6 +35,7 @@
             this.bStart = new System.Windows.Forms.Button();
             this.tbPlayerName = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
+            this.tbHighScore = new System.Windows.Forms.TextBox();
             ((System.ComponentModel.ISupportInitialize)(this.pbPictureBox)).BeginInit();
             this.SuspendLayout();
             // 
@@ -87,11 +88,21 @@
             this.label1.TabIndex = 4;
             this.label1.Text = "Player name:";
             // 
+            // tbHighScore
+            // 
+            this.tbHighScore.Location = new System.Drawing.Point(331, 111);
+            this.tbHighScore.Multiline = true;
+            this.tbHighScore.Name = "tbHighScore";
+            this.tbHighScore.ReadOnly = true;
+            this.tbHighScore.Size = new System.Drawing.Size(150, 134);
+            this.tbHighScore.TabIndex = 5;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(493, 257);
+            this.Controls.Add(this.tbHighScore);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.tbPlayerName);
             this.Controls.Add(this.bStart);
@@ -115,6 +126,7 @@
         private System.Windows.Forms.Button bStart;
         private System.Windows.Forms.TextBox tbPlayerName;
         private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.TextBox tbHighScore;
     }
 }
 

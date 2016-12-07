@@ -12,3 +12,4 @@ C:\Users\Uporabnik\Documents\GitHub\CSharp-programming-course-2016\7. 12. 2016\S
 C:\Users\Uporabnik\Documents\GitHub\CSharp-programming-course-2016\7. 12. 2016\Snake Demo\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
 C:\Users\Uporabnik\Documents\GitHub\CSharp-programming-course-2016\7. 12. 2016\Snake Demo\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
 C:\Users\Uporabnik\Documents\GitHub\CSharp-programming-course-2016\7. 12. 2016\Snake Demo\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Uporabnik\Documents\GitHub\CSharp-programming-course-2016\7. 12. 2016\Snake Demo\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
