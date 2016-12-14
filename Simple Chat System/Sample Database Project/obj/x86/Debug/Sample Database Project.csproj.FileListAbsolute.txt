@@ -1,0 +1,25 @@
+C:\Users\Uporabnik\Documents\Visual Studio 2010\Projects\Sample Database Project\Sample Database Project\bin\Debug\Sample Database Project.exe
+C:\Users\Uporabnik\Documents\Visual Studio 2010\Projects\Sample Database Project\Sample Database Project\bin\Debug\Sample Database Project.pdb
+C:\Users\Uporabnik\Documents\Visual Studio 2010\Projects\Sample Database Project\Sample Database Project\obj\x86\Debug\Sample Database Project.csprojResolveAssemblyReference.cache
+C:\Users\Uporabnik\Documents\Visual Studio 2010\Projects\Sample Database Project\Sample Database Project\obj\x86\Debug\Sample_Database_Project.Properties.Resources.resources
+C:\Users\Uporabnik\Documents\Visual Studio 2010\Projects\Sample Database Project\Sample Database Project\obj\x86\Debug\Sample Database Project.csproj.GenerateResource.Cache
+C:\Users\Uporabnik\Documents\Visual Studio 2010\Projects\Sample Database Project\Sample Database Project\obj\x86\Debug\Sample Database Project.exe
+C:\Users\Uporabnik\Documents\Visual Studio 2010\Projects\Sample Database Project\Sample Database Project\obj\x86\Debug\Sample Database Project.pdb
+C:\Users\Uporabnik\Documents\GitHub\CSharp-programming-course-2016\Sample Database Project\Sample Database Project\obj\x86\Debug\Sample Database Project.exe
+C:\Users\Uporabnik\Documents\GitHub\CSharp-programming-course-2016\Sample Database Project\Sample Database Project\obj\x86\Debug\Sample Database Project.pdb
+C:\Users\Uporabnik\Documents\GitHub\CSharp-programming-course-2016\Sample Database Project\Sample Database Project\bin\Debug\Sample Database Project.exe.config
+C:\Users\Uporabnik\Documents\GitHub\CSharp-programming-course-2016\Sample Database Project\Sample Database Project\bin\Debug\Sample Database Project.exe
+C:\Users\Uporabnik\Documents\GitHub\CSharp-programming-course-2016\Sample Database Project\Sample Database Project\bin\Debug\Sample Database Project.pdb
+C:\Users\Uporabnik\Documents\GitHub\CSharp-programming-course-2016\Sample Database Project\Sample Database Project\obj\x86\Debug\Sample Database Project.csprojResolveAssemblyReference.cache
+C:\Users\Uporabnik\Documents\GitHub\CSharp-programming-course-2016\Sample Database Project\Sample Database Project\obj\x86\Debug\Sample_Database_Project.Form1.resources
+C:\Users\Uporabnik\Documents\GitHub\CSharp-programming-course-2016\Sample Database Project\Sample Database Project\obj\x86\Debug\Sample_Database_Project.Properties.Resources.resources
+C:\Users\Uporabnik\Documents\GitHub\CSharp-programming-course-2016\Sample Database Project\Sample Database Project\obj\x86\Debug\Sample Database Project.csproj.GenerateResource.Cache
+C:\Users\Uporabnik\Desktop\Sample Database Project\Sample Database Project\bin\Debug\Sample Database Project.exe.config
+C:\Users\Uporabnik\Desktop\Sample Database Project\Sample Database Project\obj\x86\Debug\Sample Database Project.exe
+C:\Users\Uporabnik\Desktop\Sample Database Project\Sample Database Project\obj\x86\Debug\Sample Database Project.pdb
+C:\Users\Uporabnik\Desktop\Sample Database Project\Sample Database Project\bin\Debug\Sample Database Project.exe
+C:\Users\Uporabnik\Desktop\Sample Database Project\Sample Database Project\bin\Debug\Sample Database Project.pdb
+C:\Users\Uporabnik\Desktop\Sample Database Project\Sample Database Project\obj\x86\Debug\Sample Database Project.csprojResolveAssemblyReference.cache
+C:\Users\Uporabnik\Desktop\Sample Database Project\Sample Database Project\obj\x86\Debug\Sample_Database_Project.Form1.resources
+C:\Users\Uporabnik\Desktop\Sample Database Project\Sample Database Project\obj\x86\Debug\Sample_Database_Project.Properties.Resources.resources
+C:\Users\Uporabnik\Desktop\Sample Database Project\Sample Database Project\obj\x86\Debug\Sample Database Project.csproj.GenerateResource.Cache
