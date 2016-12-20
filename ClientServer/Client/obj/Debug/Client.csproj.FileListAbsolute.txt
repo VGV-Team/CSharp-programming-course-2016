@@ -1,0 +1,9 @@
+C:\Users\Chika\Source\Repos\ClientServer\Client\bin\Debug\Client.exe.config
+C:\Users\Chika\Source\Repos\ClientServer\Client\bin\Debug\Client.exe
+C:\Users\Chika\Source\Repos\ClientServer\Client\bin\Debug\Client.pdb
+C:\Users\Chika\Source\Repos\ClientServer\Client\obj\Debug\Client.Form1.resources
+C:\Users\Chika\Source\Repos\ClientServer\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Chika\Source\Repos\ClientServer\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\Chika\Source\Repos\ClientServer\Client\obj\Debug\Client.exe
+C:\Users\Chika\Source\Repos\ClientServer\Client\obj\Debug\Client.pdb
+C:\Users\Chika\Source\Repos\ClientServer\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
