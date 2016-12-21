@@ -1,0 +1,6 @@
+C:\Users\Uporabnik\Documents\Visual Studio 2010\Projects\ClientServer\Server\bin\Debug\Server.exe
+C:\Users\Uporabnik\Documents\Visual Studio 2010\Projects\ClientServer\Server\bin\Debug\Server.pdb
+C:\Users\Uporabnik\Documents\Visual Studio 2010\Projects\ClientServer\Server\obj\x86\Debug\Server.Properties.Resources.resources
+C:\Users\Uporabnik\Documents\Visual Studio 2010\Projects\ClientServer\Server\obj\x86\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\Uporabnik\Documents\Visual Studio 2010\Projects\ClientServer\Server\obj\x86\Debug\Server.exe
+C:\Users\Uporabnik\Documents\Visual Studio 2010\Projects\ClientServer\Server\obj\x86\Debug\Server.pdb
